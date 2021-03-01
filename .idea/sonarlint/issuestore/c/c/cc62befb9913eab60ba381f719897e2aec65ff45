@@ -1,0 +1,30 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(™¬¥ßûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¬ÃÓúÿÿÿÿ
+U
+java:S4973„"9Use the "equals" method if value comparison was intended.(›¥Ð‰úÿÿÿÿ
+U
+java:S4973„"9Use the "equals" method if value comparison was intended.(›¥Ð‰úÿÿÿÿ
+C
+java:S1125"(Remove the literal "true" boolean value.(É’éÜûÿÿÿÿ
+C
+java:S1125"(Remove the literal "true" boolean value.(ùÖç÷øÿÿÿÿ
+Q	java:S125G"<This block of commented-out lines of code should be removed.(…â€›
+V	java:S125K"<This block of commented-out lines of code should be removed.(÷±Ë½ýÿÿÿÿ
+V	java:S125M"<This block of commented-out lines of code should be removed.(³Õ“œÿÿÿÿÿ
+Q	java:S125["<This block of commented-out lines of code should be removed.(¯úá¹
+Q	java:S125^"<This block of commented-out lines of code should be removed.(Œ¥Èí
+Q	java:S125`"<This block of commented-out lines of code should be removed.(ÑÉÍþ
+F
+java:S2446b"0"notify" may not wake up the appropriate thread.(­ÀôÉ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(Éš‹»
+S
+java:S1117n"=Rename "stateFull" which hides the field declared at line 15.(â”¨â
+S
+java:S1117o"=Rename "stateLeak" which hides the field declared at line 14.(öÂ„
+C
+java:S1125q"(Remove the literal "true" boolean value.(Í¾½ùÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(ãÔ°ë
+B
+java:S1068"'Remove this unused "gif" private field.(™¬¥ßûÿÿÿÿ

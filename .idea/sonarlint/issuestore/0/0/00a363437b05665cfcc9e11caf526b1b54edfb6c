@@ -1,0 +1,35 @@
+
+r
+java:S1192&"\Define a constant instead of duplicating this literal "    {___}            {___}
+" 4 times.(ë²Ê
+\
+java:S2142|"FEither re-interrupt this method or rethrow the "InterruptedException".(í»Âµ
+[
+java:S1192"EDefine a constant instead of duplicating this literal ".+'
+" 3 times.(Â£²†
+T
+java:S49737"9Use the "equals" method if value comparison was intended.(›¥Ğ‰úÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(ŸÛõä
+I
+java:S1068"'Remove this unused "man" private field.(ÔŸÏûÿÿÿÿ8Ñö„ùş.
+m
+java:S1192"WDefine a constant instead of duplicating this literal "                      " 3 times.(Â£²†
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8“ğëøş.
+v
+java:S1192"[Define a constant instead of duplicating this literal "                          " 3 times.(ØêÒåúÿÿÿÿ
+\
+java:S1192"FDefine a constant instead of duplicating this literal " +%%." 3 times.(Â£²†
+T
+java:S4973P"9Use the "equals" method if value comparison was intended.(”‹®ÿøÿÿÿÿ
+T
+java:S49737"9Use the "equals" method if value comparison was intended.(›¥Ğ‰úÿÿÿÿ
+v
+java:S1192"`Define a constant instead of duplicating this literal "|%`````````````````````````` |
+" 3 times.(« ßš
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔÑøî
+v
+java:S1192"`Define a constant instead of duplicating this literal "|%.                          |
+" 3 times.(ÛşÕÒ
+v
+java:S1192"`Define a constant instead of duplicating this literal ",.--------------------------,,
+" 3 times.(à¤§“
